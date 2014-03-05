@@ -15,7 +15,7 @@ Usage
     repositories {
         mavenCentral()
             maven {
-                url "https://github.com/dahlgren/pulltorefresh-aar/raw/master"
+                url "https://github.com/seanzor/pulltorefresh-aar/raw/master"
             }
     }
     
